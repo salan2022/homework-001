@@ -1,1 +1,2 @@
-my file3
+this is my file3
+like to see the conflic
